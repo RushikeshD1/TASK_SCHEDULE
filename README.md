@@ -1,4 +1,5 @@
-# Express App with EJS, MongoDB, Cron Jobs, and Nodemailer
+
+# Task Scheduler App with Express App with EJS, MongoDB, Cron Jobs, and Nodemailer
 
 This is a simple Express.js application that uses EJS as the templating engine, connects to a MongoDB database using Mongoose, schedules tasks with `node-cron`, and sends emails using **Nodemailer**. The application serves dynamic content, handles user routes, and connects to a MongoDB database for persistent storage.
 
